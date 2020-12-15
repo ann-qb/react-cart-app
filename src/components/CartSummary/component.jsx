@@ -8,7 +8,6 @@ const Div = styled.div`
   padding: 15px;
   @media all and (min-width: 440px) {
   padding: 20px;
-
   }
   display: flex;
   justify-content: space-between;
