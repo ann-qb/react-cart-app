@@ -1,10 +1,9 @@
 import './App.css';
+import RestaurantItems from './components/RestaurantItems';
 
 function App() {
   return (
-    <div>
-      
-    </div>
+      <RestaurantItems/>
   );
 }
 
